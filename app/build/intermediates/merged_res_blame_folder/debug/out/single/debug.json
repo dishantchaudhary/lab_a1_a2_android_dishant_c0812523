@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/drawable_ic_baseline_email_24.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/layout_productfragment_layout.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/productfragment_layout.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/layout_activity_edit_product.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/activity_edit_product.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/drawable_ic_baseline_phone_24.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/drawable/ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/drawable_ic_baseline_map_24.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/drawable/ic_baseline_map_24.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/layout_fragment_tab.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/fragment_tab.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/layout_providerfragment_layout.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/providerfragment_layout.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/layout_product_item.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/product_item.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/layout_provider_item.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/provider_item.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/merged_res/debug/layout_activity_tab.xml.flat",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/activity_tab.xml"
+    }
+]

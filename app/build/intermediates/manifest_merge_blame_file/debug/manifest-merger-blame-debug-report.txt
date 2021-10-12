@@ -1,0 +1,84 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.lab_a1_a2_android_dishant_c0812523"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:5:5-38:19
+12        android:allowBackup="true"
+12-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] /Users/milan/.gradle/caches/transforms-3/255d63c0f9f8f5d12ab3191ffb377750/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:10:9-35
+19        android:theme="@style/Theme.Lab_A1_A2_android_Dishant_c0812523" >
+19-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:11:9-72
+20        <activity
+20-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:12:9-15:56
+21            android:name="com.example.lab_a1_a2_android_dishant_c0812523.EditProductActivity"
+21-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:13:13-48
+22            android:exported="true"
+22-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:14:13-36
+23            android:parentActivityName="com.example.lab_a1_a2_android_dishant_c0812523.TabActivity" />
+23-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:15:13-54
+24        <activity
+24-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:16:9-26:20
+25            android:name="com.example.lab_a1_a2_android_dishant_c0812523.TabActivity"
+25-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:17:13-40
+26            android:exported="true"
+26-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:18:13-36
+27            android:label="@string/title_activity_tab"
+27-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:19:13-55
+28            android:theme="@style/Theme.Lab_A1_A2_android_Dishant_c0812523.NoActionBar" >
+28-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:20:13-88
+29            <intent-filter>
+29-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:21:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:22:17-69
+30-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:24:17-77
+32-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:27:9-37:20
+36            android:name="com.example.lab_a1_a2_android_dishant_c0812523.MainActivity"
+36-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:28:13-41
+37            android:exported="true" >
+37-->/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/AndroidManifest.xml:29:13-36
+38
+39            <!-- <intent-filter> -->
+40            <!-- <action android:name="android.intent.action.MAIN" /> -->
+41
+42
+43            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+44            <!-- </intent-filter> -->
+45        </activity>
+46
+47        <service
+47-->[androidx.room:room-runtime:2.4.0-alpha05] /Users/milan/.gradle/caches/transforms-3/be1b4f4ce5cfe602cb7603f9d01e9be7/transformed/room-runtime-2.4.0-alpha05/AndroidManifest.xml:25:9-28:40
+48            android:name="androidx.room.MultiInstanceInvalidationService"
+48-->[androidx.room:room-runtime:2.4.0-alpha05] /Users/milan/.gradle/caches/transforms-3/be1b4f4ce5cfe602cb7603f9d01e9be7/transformed/room-runtime-2.4.0-alpha05/AndroidManifest.xml:26:13-74
+49            android:directBootAware="true"
+49-->[androidx.room:room-runtime:2.4.0-alpha05] /Users/milan/.gradle/caches/transforms-3/be1b4f4ce5cfe602cb7603f9d01e9be7/transformed/room-runtime-2.4.0-alpha05/AndroidManifest.xml:27:13-43
+50            android:exported="false" />
+50-->[androidx.room:room-runtime:2.4.0-alpha05] /Users/milan/.gradle/caches/transforms-3/be1b4f4ce5cfe602cb7603f9d01e9be7/transformed/room-runtime-2.4.0-alpha05/AndroidManifest.xml:28:13-37
+51    </application>
+52
+53</manifest>

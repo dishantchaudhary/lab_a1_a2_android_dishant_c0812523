@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_tab.xml",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/activity_tab.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/providerfragment_layout.xml",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/providerfragment_layout.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/provider_item.xml",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/provider_item.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_edit_product.xml",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/activity_edit_product.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/productfragment_layout.xml",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/productfragment_layout.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_tab.xml",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/fragment_tab.xml"
+    },
+    {
+        "merged": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_item.xml",
+        "source": "/Users/milan/Desktop/Lab_A1_A2_android_dishant_c0812523/app/src/main/res/layout/product_item.xml"
+    }
+]

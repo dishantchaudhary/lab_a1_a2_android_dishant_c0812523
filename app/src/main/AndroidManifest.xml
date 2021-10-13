@@ -10,9 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab_A1_A2_android_Dishant_c0812523">
         <activity
+            android:name=".EditProviderActivity"
+            android:exported="true" />
+        <activity
             android:name=".EditProductActivity"
             android:exported="true"
-            android:parentActivityName=".TabActivity"/>
+            android:parentActivityName=".TabActivity" />
         <activity
             android:name=".TabActivity"
             android:exported="true"

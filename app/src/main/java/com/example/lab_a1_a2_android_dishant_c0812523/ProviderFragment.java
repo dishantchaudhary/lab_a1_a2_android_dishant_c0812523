@@ -16,6 +16,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.lab_a1_a2_android_dishant_c0812523.db.Provider;
 import com.example.lab_a1_a2_android_dishant_c0812523.viewModel.ProviderViewModel;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class ProviderFragment extends Fragment {
 
@@ -37,8 +38,14 @@ public class ProviderFragment extends Fragment {
         recyclerView.setAdapter(adapter);
 
         providerViewModel = new ViewModelProvider(getActivity()).get(ProviderViewModel.class);
-        //productViewModel.insert(new Product("dishant","asjkdgbsdjgbad",13.0,"abc"));
+        //productViewModel.insert(new Product("dishant","asjkdgbsdjgbad",13.0,"abc"))
+//        providerViewModel.insert(new Provider("nestle","nestle@gmail.com","+1233456",34.0,-151.0));
+//        providerViewModel.insert(new Provider("dcinc","dcinc12@gmail.com","+123898756",38.0,-159.0));
+//        providerViewModel.insert(new Provider("tim","timc@gmail.com","+1225456",74.0,-251.0));
+//        providerViewModel.insert(new Provider("starbuck","sb445@gmail.com","+9883456",94.0,-188.0));
+
         providerViewModel.getListOfProviders().observe(getActivity(), providers -> {
+
             //update view
             //listOfProducts = products;
             adapter.setProviders(providers);
@@ -72,6 +79,15 @@ public class ProviderFragment extends Fragment {
                 Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
                 startActivity(mapIntent);
 
+            }
+        });
+        FloatingActionButton fab = view.findViewById(R.id.fabAddProvider);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(),EditProviderActivity.class);
+                intent.putExtra("TYPE","ADD");
+                startActivity(intent);
             }
         });
         return view;

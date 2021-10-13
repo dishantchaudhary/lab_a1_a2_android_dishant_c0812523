@@ -49,7 +49,12 @@ public class ProductFragment extends Fragment {
         recyclerView.setAdapter(adapter);
 
         productViewModel = new ViewModelProvider(getActivity()).get(ProductViewModel.class);
-        //productViewModel.insert(new Product("dishant","asjkdgbsdjgbad",13.0,"abc"));
+
+//        productViewModel.insert(new Product("coke","dietcoke",1.9,"nestle"));
+//        productViewModel.insert(new Product("water","minral",1.1,"dcinc"));
+//        productViewModel.insert(new Product("tea","chaitea",2.5,"tim"));
+//        productViewModel.insert(new Product("coffee","dark",3.3,"starbuck"));
+
         productViewModel.getListOfProducts().observe(getActivity(), products -> {
             //update view
             listOfProducts = products;
